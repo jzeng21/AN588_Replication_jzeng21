@@ -1,5 +1,5 @@
 Here are some of the challenges I faced
-Fuuny enough I had difficulty Locating the Correct Data Sheets
+Funny enough I had difficulty Locating the Correct Data Sheets
 The original Excel file contained multiple sheets and sections of raw data. Identifying which sheet corresponded to which figure (e.g., Resting MO₂, Power Output) required careful attention and cross-referencing with the paper.
 
 Mismatch Between Variable Names and Figures
